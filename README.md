@@ -25,16 +25,16 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://www.linkedin.com/in/shivani-singh-developer/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
-    <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+    <a href="https://leetcode.com/u/Shivaniii59/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Badge">
     </a>
-    <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+    <a href="https://www.codechef.com/users/shivanii59" target="_blank">
       <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef Badge">
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:s7700779@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
     </a>
   </p>
@@ -115,16 +115,16 @@ I enjoy writing efficient, scalable code and solving algorithmic challenges. I h
     <td width="50%" valign="top">
 
 ### 🤖 AI Resume Analyzer
-*An intelligent tool designed to parse resumes, evaluate skill alignment against job descriptions, and provide actionable feedback using AI/ML techniques.*
-- **Tech Stack:** Python, Java, Spring Boot, REST APIs, Machine Learning
+*An intelligent tool designed to extract text from PDF resumes, calculate ATS match scores against job descriptions, and provide AI-powered analysis.*
+- **Tech Stack:** Python, Streamlit, Google Gemini API, Machine Learning
 - [🔗 GitHub Repository](https://github.com/s7700779-png/ai-resume-analyzer)
 
 </td>
     <td width="50%" valign="top">
 
 ### 🏥 Health Tracker
-*A comprehensive application to monitor daily wellness, track health metrics, and maintain personal fitness records securely.*
-- **Tech Stack:** Java, Spring Boot, Hibernate, MySQL, HTML/CSS, JavaScript
+*A responsive web application to monitor daily wellness, track health metrics, diet, and fitness habits.*
+- **Tech Stack:** HTML, CSS, JavaScript
 - [🔗 GitHub Repository](https://github.com/s7700779-png/health-tracker)
 
 </td>
@@ -143,10 +143,10 @@ I enjoy writing efficient, scalable code and solving algorithmic challenges. I h
 
 <div align="center">
 
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/u/Shivaniii59/">
     <img src="https://img.shields.io/badge/LeetCode%20Solved-100%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+  <a href="https://www.codechef.com/users/shivanii59">
     <img src="https://img.shields.io/badge/CodeChef%20Solved-300%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
   <a href="https://www.credly.com/org/aws-academy">
@@ -161,34 +161,4 @@ I enjoy writing efficient, scalable code and solving algorithmic challenges. I h
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=s7700779-png&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=FF69B4&icon_color=FF69B4&text_color=F8BBD0&bg_color=151515&ring_color=FF69B4" alt="GitHub stats">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s7700779-png&layout=compact&hide_border=true&langs_count=8&title_color=FF69B4&text_color=F8BBD0&bg_color=151515" alt="Most used programming languages">
-
-</div>
-
-<br>
-
-<h3 align="center">🔥 Contribution Streak</h3>
-
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=s7700779-png&hide_border=true&background=151515&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak">
-</p>
-
----
-
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <i>Visualizing my coding activity over time.</i>
-</p>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-contribution-grid-snake.svg">
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-
-</div>
+  <img width="49%" src="
