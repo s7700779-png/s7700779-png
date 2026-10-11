@@ -56,19 +56,3 @@ I am a B.Tech student passionate about software development, backend engineering
 
 <div align="center">
 
- <!-- ==================== CONTRIBUTION SNAKE ==================== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <i>Watch my contributions come alive across the year!</i>
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
