@@ -1,164 +1,24 @@
-<!-- ==================== HERO BANNER ==================== -->
+# 💫 About Me:
+I am a B.Tech student passionate about software development, backend engineering, and problem-solving. Currently, I am focused on Java, Data Structures & Algorithms (DSA), and backend development while continuously improving my technical skills through projects and open-source contributions. I enjoy learning new technologies, solving challenging coding problems, and building efficient applications. My goal is to grow as a skilled software developer and contribute to impactful real-world solutions.<br>
 
-<div align="center">
 
-  <h1>Hi there, I'm Shivani Singh 👋🏻</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivani-singh-2145a237b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s7700779@gmail.com) 
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Java+Backend+Developer+%E2%98%95;Problem+Solver+%7C+DSA+%7C+LeetCode+%26+CodeChef+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%8C%B8" alt="Animated typing introduction">
-  </a>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=s7700779-png&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=s7700779-png&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=s7700779-png&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <br><br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=s7700779-png&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-  <a href="https://github.com/s7700779-png">
-    <img src="https://img.shields.io/github/followers/s7700779-png?label=Followers&style=for-the-badge&color=FF69B4&labelColor=1F1F1F" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/s7700779-png?tab=repositories">
-    <img src="https://img.shields.io/github/stars/s7700779-png?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F8BBD0&labelColor=1F1F1F" alt="GitHub stars">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=s7700779-png&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile views">
-
-  <br><br>
-
-  <p>
-    <b>✨ Turning logic into clean code, solving complex algorithms, and building impactful backend systems. ✨</b>
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/shivani-singh-developer/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <a href="https://leetcode.com/u/Shivaniii59/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Badge">
-    </a>
-    <a href="https://www.codechef.com/users/shivanii59" target="_blank">
-      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef Badge">
-    </a>
-    <a href="mailto:s7700779@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
-    </a>
-  </p>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=s7700779-png&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=s7700779-png&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- ==================== ABOUT ME ==================== -->
-
-<h2 align="center">🌸 About Me</h2>
-
-<table>
-  <tr>
-    <td width="65%" valign="middle">
-
-I am a B.Tech Computer Science Engineering student at **ABES Engineering College** with a strong passion for **Java Backend Development, Data Structures & Algorithms (DSA), and AI/ML**. 
-
-I enjoy writing efficient, scalable code and solving algorithmic challenges. I have solved 300+ problems on CodeChef and 100+ on LeetCode. Beyond coursework, I actively contribute to open source and build practical full-stack and AI-powered web applications.
-
-- 🎓 **Education:** B.Tech in Computer Science Engineering | ABES Engineering College
-- ☕ **Core Expertise:** Java, Spring Boot, Hibernate, SQL, Data Structures & Algorithms
-- 🤖 **Interests:** Backend Architecture, AI/ML Integration, Cloud Computing
-- 🌸 **Open Source:** Contributor to **GirlScript Summer of Code (GSSoC) 2026** (AI/Agents Track)
-- 🏆 **Certifications:** AWS Academy Cloud Foundations
-- 🎯 **Career Goal:** Seeking software engineering intern and entry-level backend roles to build robust, scalable real-world systems.
-
-</td>
-    <td width="35%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/Status-Looking%20for%20Opportunities-FF69B4?style=flat-square&labelColor=1F1F1F" alt="Open to opportunities">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-Backend%20Developer-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java Backend">
-
-</td>
-  </tr>
-</table>
-
----
-
-<!-- ==================== TECH STACK ==================== -->
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<p align="center">
-  <i>Technologies and tools I use to design, develop, and deploy applications.</i>
-</p>
-
-<h3 align="center">💻 Languages & Core</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css&theme=light" alt="Languages">
-</p>
-
-<h3 align="center">⚙️ Backend, Frameworks & Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres,mongodb,hibernate,redis&theme=light" alt="Backend & Databases">
-</p>
-
-<h3 align="center">🔧 Tools, Cloud & Version Control</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,aws,linux&theme=light" alt="Tools & Cloud">
-</p>
-
----
-
-<!-- ==================== FEATURED PROJECTS ==================== -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <i>A selection of projects highlighting my work in backend development and AI.</i>
-</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🤖 AI Resume Analyzer
-*An intelligent tool designed to extract text from PDF resumes, calculate ATS match scores against job descriptions, and provide AI-powered analysis.*
-- **Tech Stack:** Python, Streamlit, Google Gemini API, Machine Learning
-- [🔗 GitHub Repository](https://github.com/s7700779-png/ai-resume-analyzer)
-
-</td>
-    <td width="50%" valign="top">
-
-### 🏥 Health Tracker
-*A responsive web application to monitor daily wellness, track health metrics, diet, and fitness habits.*
-- **Tech Stack:** HTML, CSS, JavaScript
-- [🔗 GitHub Repository](https://github.com/s7700779-png/health-tracker)
-
-</td>
-  </tr>
-</table>
-
----
-
-<!-- ==================== CODING PROFILES & STATS ==================== -->
-
-<h2 align="center">📊 Coding Profiles & GitHub Stats</h2>
-
-<p align="center">
-  <i>A snapshot of my problem-solving consistency and open-source contributions.</i>
-</p>
-
-<div align="center">
-
-  <a href="https://leetcode.com/u/Shivaniii59/">
-    <img src="https://img.shields.io/badge/LeetCode%20Solved-100%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
-  <a href="https://www.codechef.com/users/shivanii59">
-    <img src="https://img.shields.io/badge/CodeChef%20Solved-300%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
-  </a>
-  <a href="https://www.credly.com/org/aws-academy">
-    <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy">
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=s7700779-png&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=FF69B4&icon_color=FF69B4&text_color=F8BBD0&bg_color=151515&ring_color=FF69B4" alt="GitHub stats">
-
-  <img width="49%" src="
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
