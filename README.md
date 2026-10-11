@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a B.Tech student passionate about software development, backend engineering, and problem-solving. Currently, I am focused on Java, Data Structures & Algorithms (DSA), and backend development while continuously improving my technical skills through projects and open-source contributions. I enjoy learning new technologies, solving challenging coding problems, and building efficient applications. My goal is to grow as a skilled software developer and contribute to impactful real-world solutions.<br>
+I am a B.Tech student passionate about software development, backend engineering, and problem-solving. Currently, I am focused on Java, Data Structures & Algorithms (DSA), and backend development while continuously improving my technical skills through projects and open-source contributions. I enjoy learning new technologies, solving challenging coding problems, and building efficient applications.<br>
 
 
 ## 🌐 Socials:
