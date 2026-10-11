@@ -54,4 +54,18 @@ I am a B.Tech student passionate about software development, backend engineering
 ![](https://streak-stats.demolab.com/?user=s7700779-png&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=s7700779-png&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+
+  <h2>🐍 Contribution Snake</h2>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake"
+         src="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-snake.svg">
+  </picture>
+
+</div>
 
