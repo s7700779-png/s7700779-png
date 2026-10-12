@@ -4,16 +4,13 @@
 
   <h1>Hey, I'm Shivani Singh! 👋</h1>
 
-  <h3>💻 Java Backend Developer | CSE Student | Open Source Contributor</h3>
+  <h3>Web Development | DSA Learner</h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=EF93C4&center=true&vCenter=true&width=800&lines=B.Tech+CSE+%40+ABES+Engineering+College;Learning+Java+%26+Backend+Development;Practicing+Data+Structures+%26+Algorithms;Exploring+AI+%26+Machine+Learning;Building+Projects+and+Contributing+to+Open+Source" alt="Typing animation"/>
 
   <br/>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=s7700779-png&label=Profile%20Views&color=EF93C4&style=for-the-badge" alt="Profile views"/>
-    <img src="https://img.shields.io/github/followers/s7700779-png?label=Followers&style=for-the-badge&color=F8BBD0&logo=github" alt="GitHub followers"/>
-  </p>
+  
 
   <p>
     <a href="https://www.linkedin.com/in/shivani-singh-developer/">
@@ -40,14 +37,15 @@
 
 I'm a **B.Tech Computer Science student at ABES Engineering College**, passionate about software development, backend engineering, and problem-solving.
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering
-- ☕ Focused on Java, DSA, and backend development
-- 🌱 Learning Spring Boot, REST APIs, and database integration
-- 🤖 Exploring AI, machine learning, and LLM-powered applications
-- 🌍 Contributing to open-source projects through GSSoC
-- 🧩 Practicing coding problems on LeetCode and CodeChef
-- 🚦 Working toward an AI-powered Smart Traffic Management project
-- 🤝 Open to internships, collaborative projects, and open-source opportunities
+- Pursuing B.Tech in Computer Science and Engineering
+- Exploring Web Development and new technologies
+- Practicing Data Structures and Algorithms in Java
+- Learning backend development fundamentals
+- Exploring Artificial Intelligence and Machine Learning
+- Contributing to open-source projects through GSSoC
+- Solving coding problems on LeetCode and CodeChef
+- Working on an AI-powered Smart Traffic Management project
+- Open to internships, collaborations, and open-source opportunities
 
 <br clear="right"/>
 
@@ -231,30 +229,20 @@ I'm a **B.Tech Computer Science student at ABES Engineering College**, passionat
 
   <br/><br/>
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=s7700779-png&bg_color=191724&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" alt="GitHub activity graph"/>
+  
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-snake.svg"/>
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/s7700779-png/s7700779-png/output/github-snake.svg" width="100%"/>
-  </picture>
-
-</div>
 
 ---
 
 ## 🌱 Currently Learning
 
 - Advanced Java and Data Structures & Algorithms
-- Spring Boot, REST APIs, and backend application development
+- Web development through hands-on projects
 - Database design and SQL
 - Machine learning fundamentals and AI-powered applications
 - Git, GitHub workflows, and open-source collaboration
